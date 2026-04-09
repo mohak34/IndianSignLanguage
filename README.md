@@ -38,7 +38,5 @@ This project is licensed under the BSD 3-Clause License. See the [LICENSE](LICEN
 
 
 
-## Contributing  
-We welcome contributions from developers, linguists, and accessibility advocates. Feel free to open an issue or submit a pull request to help improve SignWay.  
 
 
