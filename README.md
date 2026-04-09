@@ -1,5 +1,5 @@
 
- <h1 align="center"> SignWay </h1>  
+ <h1 align="center"> SignWays </h1>  
 
 ## Bridging the Communication Gap with Indian Sign Language  
 
